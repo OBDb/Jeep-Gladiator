@@ -1,0 +1,55 @@
+command_id: 7E0.01A6
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E80641A6000041FD
+  expected_values:
+    ODO: 1689.3
+- response: 7E80641A600004200
+  expected_values:
+    ODO: 1689.6
+- response: 7E80641A600004202
+  expected_values:
+    ODO: 1689.8
+- response: 7E80641A600004204
+  expected_values:
+    ODO: 1690
+- response: 7E80641A600004206
+  expected_values:
+    ODO: 1690.2
+- response: 7E80641A600004208
+  expected_values:
+    ODO: 1690.4
+- response: 7E80641A60000420A
+  expected_values:
+    ODO: 1690.6
+- response: 7E80641A60000420D
+  expected_values:
+    ODO: 1690.9
+- response: 7E80641A60000420F
+  expected_values:
+    ODO: 1691.1
+- response: 7E80641A600004214
+  expected_values:
+    ODO: 1691.6
+- response: 7E80641A60000421A
+  expected_values:
+    ODO: 1692.2
+- response: 7E80641A60000421D
+  expected_values:
+    ODO: 1692.5
+- response: 7E80641A600004222
+  expected_values:
+    ODO: 1693
+- response: 7E80641A600004223
+  expected_values:
+    ODO: 1693.1
+- response: 7E80641A600004225
+  expected_values:
+    ODO: 1693.3
+- response: 7E80641A600004226
+  expected_values:
+    ODO: 1693.4
+- response: 7E80641A600004439
+  expected_values:
+    ODO: 1746.5
