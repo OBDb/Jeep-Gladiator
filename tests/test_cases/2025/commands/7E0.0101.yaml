@@ -2,7 +2,7 @@ command_id: 7E0.0101
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
-- response: 7E80641010007E580
+- response: 7E80641010007E500
   expected_values:
     ACRF_RDY: 0
     ACRF_SUP: 0
@@ -14,7 +14,7 @@ test_cases:
     CCM_SUP: 1
     CIM_SUP: SPARK
     DTC_CNT: 0
-    EGR_RDY: 1
+    EGR_RDY: 0
     EGR_SUP: 1
     EVAP_RDY: 0
     EVAP_SUP: 1
