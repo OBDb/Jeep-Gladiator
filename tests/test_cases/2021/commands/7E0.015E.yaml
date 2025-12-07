@@ -4,8 +4,8 @@ test_cases:
     FUEL_RATE: 0
   response: 7E804415E0000
 - expected_values:
-    FUEL_RATE: 10.8
-  response: 7E804415E00D8
+    FUEL_RATE: 12.65
+  response: 7E804415E00FD
 - expected_values:
-    FUEL_RATE: 13.95
-  response: 7E804415E0117
+    FUEL_RATE: 39.05
+  response: 7E804415E030D
