@@ -2,22 +2,34 @@ command_id: 740.4C0.22A0F4|fc=1
 test_cases:
 - expected_values:
     JEEP_TP_RL_V2: 0
+    JEEP_TT_RL_V2: 86
+  response: |-
+    4C0100962A0F4008833
+    4C02100915FF4008833
+- expected_values:
+    JEEP_TP_RL_V2: 0
+    JEEP_TT_RL_V2: 88
+  response: |-
+    4C0100962A0F4008A36
+    4C021210B5FF4008A36
+- expected_values:
+    JEEP_TP_RL_V2: 0
+    JEEP_TT_RL_V2: 88
+  response: |-
+    4C0100962A0F4008A36
+    4C0213F0B5FF4008A36
+- expected_values:
+    JEEP_TP_RL_V2: 0
     JEEP_TT_RL_V2: 92
   response: |-
-    4C0100962A0F4008E3B
-    4C02100515FF4008E3B
+    4C0100962A0F4008E37
+    4C02100915FF4008E37
 - expected_values:
     JEEP_TP_RL_V2: 0
     JEEP_TT_RL_V2: 94
   response: |-
     4C0100962A0F400903B
     4C02100915FF400903B
-- expected_values:
-    JEEP_TP_RL_V2: 0
-    JEEP_TT_RL_V2: 94
-  response: |-
-    4C0100962A0F400903B
-    4C0214F0B5FF400903B
 - expected_values:
     JEEP_TP_RL_V2: 0
     JEEP_TT_RL_V2: 94
@@ -44,7 +56,13 @@ test_cases:
     4C02100915FF4009441
 - expected_values:
     JEEP_TP_RL_V2: 0
-    JEEP_TT_RL_V2: 100
+    JEEP_TT_RL_V2: 116
   response: |-
-    4C0100962A0F4009641
-    4C02100C35FF4009641
+    4C0100962A0F400A635
+    4C02100515FF400A635
+- expected_values:
+    JEEP_TP_RL_V2: 0
+    JEEP_TT_RL_V2: 120
+  response: |-
+    4C0100962A0F400AA35
+    4C02100915FF400AA35
