@@ -1,0 +1,14 @@
+command_id: 7E1.7E9.225503|fc=1
+test_cases:
+- expected_values:
+    JEEP_GEAR: '1'
+  response: '7E90462550301'
+- expected_values:
+    JEEP_GEAR: '2'
+  response: '7E90462550302'
+- expected_values:
+    JEEP_GEAR: REAR
+  response: 7E9046255030B
+- expected_values:
+    JEEP_GEAR: PARK
+  response: 7E9046255030D
