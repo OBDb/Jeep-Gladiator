@@ -1,3 +1,7 @@
+references:
+  - "https://en.wikipedia.org/wiki/Jeep_Gladiator_(SJ)"
+  - "https://en.wikipedia.org/wiki/Jeep_Gladiator_(JT)"
+
 generations:
   - name: "First Generation (as Jeep Pickup/Gladiator, SJ)"
     start_year: 1962
