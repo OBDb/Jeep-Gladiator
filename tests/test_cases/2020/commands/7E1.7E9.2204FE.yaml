@@ -1,11 +1,8 @@
 command_id: 7E1.7E9.2204FE
 test_cases:
 - expected_values:
-    JEEP_ATF_T: 21.2
-  response: 7E9066204FE222122
-- expected_values:
-    JEEP_ATF_T: 24.8
-  response: 7E9066204FE242021
+    JEEP_ATF_T: 19.4
+  response: 7E9066204FE211F1F
 - expected_values:
     JEEP_ATF_T: 206.6
   response: 7E9066204FE898C8C
