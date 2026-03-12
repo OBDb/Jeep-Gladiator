@@ -22,5 +22,8 @@ test_cases:
     JEEP_GEAR_TARGET: '7'
   response: '7E90462550407'
 - expected_values:
+    JEEP_GEAR_TARGET: REAR
+  response: 7E9046255040B
+- expected_values:
     JEEP_GEAR_TARGET: PARK
   response: 7E9046255040D
