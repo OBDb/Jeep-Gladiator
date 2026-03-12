@@ -2,6 +2,12 @@ command_id: 740.4C0.22A0F3|fc=1
 test_cases:
 - expected_values:
     JEEP_TP_RR_V2: 0
+    JEEP_TT_RR_V2: 94
+  response: |-
+    4C0100962A0F3009042
+    4C02100515EF3009042
+- expected_values:
+    JEEP_TP_RR_V2: 0
     JEEP_TT_RR_V2: 98
   response: |-
     4C0100962A0F3009448
