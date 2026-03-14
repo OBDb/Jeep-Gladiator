@@ -44,10 +44,10 @@ test_cases:
     4C02100915EF3009040
 - expected_values:
     JEEP_TP_RR_V2: 0
-    JEEP_TT_RR_V2: 96
+    JEEP_TT_RR_V2: 98
   response: |-
-    4C0100962A0F3009246
-    4C021780B5EF3009246
+    4C0100962A0F3009444
+    4C021FF0B5EF3009444
 - expected_values:
     JEEP_TP_RR_V2: 0
     JEEP_TT_RR_V2: 108
