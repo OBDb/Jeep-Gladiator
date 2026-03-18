@@ -35,11 +35,11 @@ test_cases:
 - expected_values:
     JEEP_TP_FL_AC: 39
     JEEP_TP_FR_AC: 47
-    JEEP_TP_RL_AC: 39
+    JEEP_TP_RL_AC: 38
     JEEP_TP_RR_AC: 40
   response: |-
     4C0100962A0A1272F28
-    4C02127000CA1272F28
+    4C02126000CA1272F28
 - expected_values:
     JEEP_TP_FL_AC: 40
     JEEP_TP_FR_AC: 46
