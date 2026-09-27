@@ -7,6 +7,21 @@ test_cases:
     JEEP_GEAR_V2: '2'
   response: '7E90462550302'
 - expected_values:
+    JEEP_GEAR_V2: '3'
+  response: '7E90462550303'
+- expected_values:
+    JEEP_GEAR_V2: '4'
+  response: '7E90462550304'
+- expected_values:
+    JEEP_GEAR_V2: '5'
+  response: '7E90462550305'
+- expected_values:
+    JEEP_GEAR_V2: '6'
+  response: '7E90462550306'
+- expected_values:
+    JEEP_GEAR_V2: '7'
+  response: '7E90462550307'
+- expected_values:
     JEEP_GEAR_V2: REAR
   response: 7E9046255030B
 - expected_values:
