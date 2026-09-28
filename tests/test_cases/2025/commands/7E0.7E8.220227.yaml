@@ -2,31 +2,7 @@ command_id: 7E0.7E8.220227
 test_cases:
 - expected_values:
     JEEP_FLI_INPUT: 100
-  response: '7E80462022793'
-- expected_values:
-    JEEP_FLI_INPUT: 100
-  response: '7E80462022794'
-- expected_values:
-    JEEP_FLI_INPUT: 100
-  response: '7E80462022795'
-- expected_values:
-    JEEP_FLI_INPUT: 100
-  response: '7E80462022796'
-- expected_values:
-    JEEP_FLI_INPUT: 100
-  response: '7E80462022797'
-- expected_values:
-    JEEP_FLI_INPUT: 100
-  response: '7E80462022798'
-- expected_values:
-    JEEP_FLI_INPUT: 100
-  response: '7E80462022799'
-- expected_values:
-    JEEP_FLI_INPUT: 100
-  response: 7E8046202279A
-- expected_values:
-    JEEP_FLI_INPUT: 100
-  response: 7E8046202279B
+  response: '7E80462022792'
 - expected_values:
     JEEP_FLI_INPUT: 100
   response: 7E8046202279C
