@@ -4,5 +4,5 @@ test_cases:
     JEEP_CHG_AIR_T: 64.6
   response: '7E80462125052'
 - expected_values:
-    JEEP_CHG_AIR_T: 107.8
-  response: 7E8046212506A
+    JEEP_CHG_AIR_T: 113.2
+  response: 7E8046212506D
