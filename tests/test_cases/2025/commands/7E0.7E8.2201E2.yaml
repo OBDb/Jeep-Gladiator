@@ -18,3 +18,6 @@ test_cases:
 - expected_values:
     JEEP_DPF_SIM_MASS: 0.06
   response: 7E8056201E20006
+- expected_values:
+    JEEP_DPF_SIM_MASS: 0.08
+  response: 7E8056201E20008

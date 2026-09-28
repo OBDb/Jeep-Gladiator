@@ -4,11 +4,11 @@ test_cases:
     JEEP_BRAKE_BOOSTER_P: 58.1
   response: 7E80562094416B2
 - expected_values:
-    JEEP_BRAKE_BOOSTER_P: 64.15
-  response: 7E805620944190F
+    JEEP_BRAKE_BOOSTER_P: 61.4
+  response: 7E80562094417FC
 - expected_values:
-    JEEP_BRAKE_BOOSTER_P: 74.05
-  response: 7E8056209441CED
+    JEEP_BRAKE_BOOSTER_P: 76.8
+  response: 7E8056209441E00
 - expected_values:
     JEEP_BRAKE_BOOSTER_P: 82.3
   response: '7E8056209442026'
