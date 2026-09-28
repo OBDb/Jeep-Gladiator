@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2206C2
 test_cases:
 - expected_values:
-    JEEP_INT_CAM_1_OFFSET: 0.7
-  response: 7E8056206C20007
+    JEEP_INT_CAM_1_OFFSET: 0.6
+  response: 7E8056206C20006
 - expected_values:
     JEEP_INT_CAM_1_OFFSET: 39.1
   response: 7E8056206C20187
