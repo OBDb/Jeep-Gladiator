@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220174
+test_cases:
+- expected_values:
+    JEEP_MAP: 20.4
+  response: '7E8056201740066'
+- expected_values:
+    JEEP_MAP: 45.6
+  response: 7E80562017400E4
+- expected_values:
+    JEEP_MAP: 55.8
+  response: '7E8056201740117'
