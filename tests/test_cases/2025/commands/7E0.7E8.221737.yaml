@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221737
+test_cases:
+- expected_values:
+    JEEP_FL_WHL_SPD: 0
+  response: '7E8056217370000'
+- expected_values:
+    JEEP_FL_WHL_SPD: 59.34375
+  response: 7E8056217370ED6
+- expected_values:
+    JEEP_FL_WHL_SPD: 62.78125
+  response: 7E8056217370FB2
