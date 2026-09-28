@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2201FF
 test_cases:
 - expected_values:
-    JEEP_IAT_01FF: 23
-  response: 7E8056201FF0057
+    JEEP_IAT_01FF: 19
+  response: 7E8056201FF0053
 - expected_values:
     JEEP_IAT_01FF: 53
   response: 7E8056201FF0075

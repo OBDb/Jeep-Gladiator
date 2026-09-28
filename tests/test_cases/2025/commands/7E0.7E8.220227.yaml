@@ -5,6 +5,9 @@ test_cases:
   response: '7E80462022797'
 - expected_values:
     JEEP_FLI_INPUT: 100
+  response: '7E80462022798'
+- expected_values:
+    JEEP_FLI_INPUT: 100
   response: '7E80462022799'
 - expected_values:
     JEEP_FLI_INPUT: 100
