@@ -4,5 +4,5 @@ test_cases:
     JEEP_AC_HIGH_SIDE_P: 546
   response: '7E80462032927'
 - expected_values:
-    JEEP_AC_HIGH_SIDE_P: 1064
-  response: 7E8046203294C
+    JEEP_AC_HIGH_SIDE_P: 1862
+  response: '7E80462032985'

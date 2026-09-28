@@ -4,5 +4,5 @@ test_cases:
     JEEP_IAT_01FF: 19
   response: 7E8056201FF0053
 - expected_values:
-    JEEP_IAT_01FF: 53
-  response: 7E8056201FF0075
+    JEEP_IAT_01FF: 57
+  response: 7E8056201FF0079
