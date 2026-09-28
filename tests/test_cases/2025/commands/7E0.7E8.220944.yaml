@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220944
 test_cases:
 - expected_values:
-    JEEP_BRAKE_BOOSTER_P: 58.65
-  response: 7E80562094416E9
+    JEEP_BRAKE_BOOSTER_P: 58.1
+  response: 7E80562094416B2
 - expected_values:
     JEEP_BRAKE_BOOSTER_P: 64.15
   response: 7E805620944190F
