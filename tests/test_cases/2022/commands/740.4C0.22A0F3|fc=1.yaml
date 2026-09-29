@@ -1,73 +1,97 @@
 command_id: 740.4C0.22A0F3|fc=1
 test_cases:
 - expected_values:
+    JEEP_TP_RR_F: 13.4
     JEEP_TP_RR_V2: 33.5
+    JEEP_TT_RR_F: -37
     JEEP_TT_RR_V2: 0
   response: |-
     4C0100962A0F3008632
     4C02100035EF3008632
 - expected_values:
+    JEEP_TP_RR_F: 13.4
     JEEP_TP_RR_V2: 33.5
+    JEEP_TT_RR_F: 105
     JEEP_TT_RR_V2: 0
   response: |-
     4C0100962A0F3008632
     4C02100915EF3008632
 - expected_values:
+    JEEP_TP_RR_F: 13.4
     JEEP_TP_RR_V2: 33.5
+    JEEP_TT_RR_F: -29
     JEEP_TT_RR_V2: 0
   response: |-
     4C0100962A0F3008632
     4C021140B5EF3008632
 - expected_values:
+    JEEP_TP_RR_F: 14
     JEEP_TP_RR_V2: 35
+    JEEP_TT_RR_F: -37
     JEEP_TT_RR_V2: 11
   response: |-
     4C0100962A0F3008C3D
     4C0210F035EF3008C3D
 - expected_values:
+    JEEP_TP_RR_F: 14.2
     JEEP_TP_RR_V2: 35.5
+    JEEP_TT_RR_F: 105
     JEEP_TT_RR_V2: 13
   response: |-
     4C0100962A0F3008E3F
     4C02100915EF3008E3F
 - expected_values:
+    JEEP_TP_RR_F: 14.4
     JEEP_TP_RR_V2: 36
+    JEEP_TT_RR_F: 105
     JEEP_TT_RR_V2: 12
   response: |-
     4C0100962A0F300903E
     4C02100915EF300903E
 - expected_values:
+    JEEP_TP_RR_F: 14.4
     JEEP_TP_RR_V2: 36
+    JEEP_TT_RR_F: 105
     JEEP_TT_RR_V2: 14
   response: |-
     4C0100962A0F3009040
     4C02100915EF3009040
 - expected_values:
+    JEEP_TP_RR_F: 14.8
     JEEP_TP_RR_V2: 37
+    JEEP_TT_RR_F: -29
     JEEP_TT_RR_V2: 18
   response: |-
     4C0100962A0F3009444
     4C021FF0B5EF3009444
 - expected_values:
+    JEEP_TP_RR_F: 15.8
     JEEP_TP_RR_V2: 39.5
+    JEEP_TT_RR_F: 41
     JEEP_TT_RR_V2: 46
   response: |-
     4C0100962A0F3009E60
     4C02100515EF3009E60
 - expected_values:
+    JEEP_TP_RR_F: 16
     JEEP_TP_RR_V2: 40
+    JEEP_TT_RR_F: 105
     JEEP_TT_RR_V2: 32
   response: |-
     4C0100962A0F300A052
     4C02100915EF300A052
 - expected_values:
+    JEEP_TP_RR_F: 16
     JEEP_TP_RR_V2: 40
+    JEEP_TT_RR_F: -29
     JEEP_TT_RR_V2: 50
   response: |-
     4C0100962A0F300A064
     4C021140B5EF300A064
 - expected_values:
+    JEEP_TP_RR_F: 16.4
     JEEP_TP_RR_V2: 41
+    JEEP_TT_RR_F: 105
     JEEP_TT_RR_V2: 43
   response: |-
     4C0100962A0F300A45D

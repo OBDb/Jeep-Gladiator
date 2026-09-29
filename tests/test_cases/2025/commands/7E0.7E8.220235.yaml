@@ -4,8 +4,8 @@ test_cases:
     JEEP_INJ_WIDTH_CYL_2: 0.288
   response: '7E80762023500000120'
 - expected_values:
-    JEEP_INJ_WIDTH_CYL_2: 0.776
-  response: '7E80762023500000308'
+    JEEP_INJ_WIDTH_CYL_2: 1.792
+  response: '7E80762023500000700'
 - expected_values:
     JEEP_INJ_WIDTH_CYL_2: 3.32
   response: 7E80762023500000CF8
