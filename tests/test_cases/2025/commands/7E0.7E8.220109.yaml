@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220109
 test_cases:
 - expected_values:
-    JEEP_BAROMETRIC_P: 144.71
-  response: 7E80562010901F3
+    JEEP_BAROMETRIC_P: 144.13
+  response: 7E80562010901F1
 - expected_values:
     JEEP_BAROMETRIC_P: 147.61
   response: 7E80562010901FD
