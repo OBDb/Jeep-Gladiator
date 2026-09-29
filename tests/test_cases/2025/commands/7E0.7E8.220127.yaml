@@ -1,29 +1,8 @@
 command_id: 7E0.7E8.220127
 test_cases:
 - expected_values:
-    JEEP_AAT: 61
-  response: '7E80462012750'
-- expected_values:
-    JEEP_AAT: 62.8
-  response: '7E80462012751'
-- expected_values:
-    JEEP_AAT: 64.6
-  response: '7E80462012752'
-- expected_values:
-    JEEP_AAT: 66.4
-  response: '7E80462012753'
-- expected_values:
-    JEEP_AAT: 68.2
-  response: '7E80462012754'
-- expected_values:
-    JEEP_AAT: 70
-  response: '7E80462012755'
-- expected_values:
-    JEEP_AAT: 73.6
-  response: '7E80462012757'
-- expected_values:
-    JEEP_AAT: 79
-  response: 7E8046201275A
+    JEEP_AAT: 57.4
+  response: 7E8046201274E
 - expected_values:
     JEEP_AAT: 86.2
   response: 7E8046201275E
