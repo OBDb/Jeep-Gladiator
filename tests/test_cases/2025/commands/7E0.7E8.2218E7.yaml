@@ -24,3 +24,9 @@ test_cases:
 - expected_values:
     JEEP_DPF_REGENS_18E7: 2542
   response: 7E8056218E709EE
+- expected_values:
+    JEEP_DPF_REGENS_18E7: 2543
+  response: 7E8056218E709EF
+- expected_values:
+    JEEP_DPF_REGENS_18E7: 2544
+  response: 7E8056218E709F0
