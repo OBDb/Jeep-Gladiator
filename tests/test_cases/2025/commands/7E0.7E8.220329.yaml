@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220329
 test_cases:
 - expected_values:
-    JEEP_AC_HIGH_SIDE_P: 546
-  response: '7E80462032927'
+    JEEP_AC_HIGH_SIDE_P: 504
+  response: '7E80462032924'
 - expected_values:
     JEEP_AC_HIGH_SIDE_P: 1862
   response: '7E80462032985'
