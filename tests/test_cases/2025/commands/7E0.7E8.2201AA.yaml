@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2201AA
 test_cases:
 - expected_values:
-    JEEP_KNOCK_SENS_2: 0.34745
-  response: 7E8056201AA11CA
+    JEEP_KNOCK_SENS_2: 0.23835
+  response: 7E8056201AA0C34
 - expected_values:
     JEEP_KNOCK_SENS_2: 0.42962
   response: 7E8056201AA15FF
@@ -10,5 +10,5 @@ test_cases:
     JEEP_KNOCK_SENS_2: 0.50782
   response: 7E8056201AA1A00
 - expected_values:
-    JEEP_KNOCK_SENS_2: 1.23232
-  response: 7E8056201AA3F18
+    JEEP_KNOCK_SENS_2: 1.66804
+  response: 7E8056201AA5567
