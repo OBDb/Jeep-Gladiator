@@ -4,8 +4,8 @@ test_cases:
     JEEP_THROTTLE_INLET_P: 99.68125
   response: 7E8056212473E4D
 - expected_values:
-    JEEP_THROTTLE_INLET_P: 100.71875
-  response: 7E8056212473EF3
+    JEEP_THROTTLE_INLET_P: 100.79375
+  response: 7E8056212473EFF
 - expected_values:
     JEEP_THROTTLE_INLET_P: 100.85
   response: 7E8056212473F08

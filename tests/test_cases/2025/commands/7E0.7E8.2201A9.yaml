@@ -4,11 +4,11 @@ test_cases:
     JEEP_KNOCK_SENS_1: 0.34951
   response: 7E8056201A911E5
 - expected_values:
+    JEEP_KNOCK_SENS_1: 0.41009
+  response: 7E8056201A914FF
+- expected_values:
     JEEP_KNOCK_SENS_1: 0.68368
   response: 7E8056201A92301
 - expected_values:
-    JEEP_KNOCK_SENS_1: 0.76143
-  response: 7E8056201A926FC
-- expected_values:
-    JEEP_KNOCK_SENS_1: 1.1062
-  response: 7E8056201A938A3
+    JEEP_KNOCK_SENS_1: 1.12009
+  response: 7E8056201A93959
