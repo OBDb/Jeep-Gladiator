@@ -1,0 +1,10 @@
+command_id: 740.4C0.22A0F4|fc=1
+test_cases:
+- expected_values:
+    JEEP_TP_RL_F: 13.4
+    JEEP_TP_RL_V2: 33.5
+    JEEP_TT_RL_F: 105
+    JEEP_TT_RL_V2: 18
+  response: |-
+    4C0100962A0F4008644
+    4C02100915FF4008644
