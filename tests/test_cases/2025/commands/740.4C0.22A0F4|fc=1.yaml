@@ -86,10 +86,10 @@ test_cases:
     JEEP_TP_RL_F: 16
     JEEP_TT_RL: 31
     JEEP_TT_RL_740: 110
-    JEEP_TT_RL_F: 153
+    JEEP_TT_RL_F: 105
   response: |-
     4C0100962A0F400A051
-    4C02100C15FF400A051
+    4C02100915FF400A051
 - expected_values:
     JEEP_TP_RL: 40
     JEEP_TP_RL_740: 0
