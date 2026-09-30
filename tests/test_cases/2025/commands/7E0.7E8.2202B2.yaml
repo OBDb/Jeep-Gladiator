@@ -4,8 +4,8 @@ test_cases:
     JEEP_REQUIRED_FUEL_CHG_1: 0
   response: 7E8056202B20000
 - expected_values:
-    JEEP_REQUIRED_FUEL_CHG_1: 15.98438
-  response: 7E8056202B203FF
+    JEEP_REQUIRED_FUEL_CHG_1: 11.98438
+  response: 7E8056202B202FF
 - expected_values:
     JEEP_REQUIRED_FUEL_CHG_1: 41.125
   response: 7E8056202B20A48
