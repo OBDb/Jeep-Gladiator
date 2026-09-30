@@ -7,5 +7,5 @@ test_cases:
     JEEP_INT_CAM_1_OFFSET: 25.4
   response: 7E8056206C200FE
 - expected_values:
-    JEEP_INT_CAM_1_OFFSET: 51.3
-  response: 7E8056206C20201
+    JEEP_INT_CAM_1_OFFSET: 51.2
+  response: 7E8056206C20200
