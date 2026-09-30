@@ -15,7 +15,7 @@ test_cases:
     JEEP_TT_FR_V2: 10
   response: |-
     4C0100962A0F2008C3C
-    4C02110035DF2008C3C
+    4C02100035DF2008C3C
 - expected_values:
     JEEP_TP_FR_F: 14
     JEEP_TP_FR_V2: 35
@@ -49,13 +49,13 @@ test_cases:
     4C0100962A0F200903E
     4C0210F0B5DF200903E
 - expected_values:
-    JEEP_TP_FR_F: 14.6
-    JEEP_TP_FR_V2: 36.5
+    JEEP_TP_FR_F: 14.4
+    JEEP_TP_FR_V2: 36
     JEEP_TT_FR_F: 105
     JEEP_TT_FR_V2: 14
   response: |-
-    4C0100962A0F2009240
-    4C02100915DF2009240
+    4C0100962A0F2009040
+    4C02100915DF2009040
 - expected_values:
     JEEP_TP_FR_F: 15
     JEEP_TP_FR_V2: 37.5
