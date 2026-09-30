@@ -81,6 +81,16 @@ test_cases:
     4C0100962A0F2009646
     4C021E10B5DF2009646
 - expected_values:
+    JEEP_TP_FR: 39
+    JEEP_TP_FR_740: 0
+    JEEP_TP_FR_F: 15.6
+    JEEP_TT_FR: 32
+    JEEP_TT_FR_740: 106
+    JEEP_TT_FR_F: 105
+  response: |-
+    4C0100962A0F2009C52
+    4C02100915DF2009C52
+- expected_values:
     JEEP_TP_FR: 39.5
     JEEP_TP_FR_740: 0
     JEEP_TP_FR_F: 15.8
