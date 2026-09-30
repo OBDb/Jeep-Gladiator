@@ -4,5 +4,5 @@ test_cases:
     JEEP_BAROMETRIC_P: 144.13
   response: 7E80562010901F1
 - expected_values:
-    JEEP_BAROMETRIC_P: 147.61
-  response: 7E80562010901FD
+    JEEP_BAROMETRIC_P: 147.9
+  response: 7E80562010901FE
