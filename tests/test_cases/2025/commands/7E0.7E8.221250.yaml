@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221250
 test_cases:
 - expected_values:
-    JEEP_CHG_AIR_T: 62.8
-  response: '7E80462125051'
+    JEEP_CHG_AIR_T: 53.8
+  response: 7E8046212504C
 - expected_values:
     JEEP_CHG_AIR_T: 125.8
   response: '7E80462125074'

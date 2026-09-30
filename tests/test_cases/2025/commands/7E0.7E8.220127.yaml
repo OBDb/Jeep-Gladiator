@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220127
 test_cases:
 - expected_values:
-    JEEP_AAT: 57.4
-  response: 7E8046201274E
+    JEEP_AAT: 50.2
+  response: 7E8046201274A
 - expected_values:
     JEEP_AAT: 86.2
   response: 7E8046201275E
