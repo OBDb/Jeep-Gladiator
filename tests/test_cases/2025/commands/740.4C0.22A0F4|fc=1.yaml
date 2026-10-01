@@ -13,6 +13,12 @@ test_cases:
     4C0100962A0F4008C3A
     4C0210F0B5FF4008C3A
 - expected_values:
+    GLADIATOR_TP_RL: 35
+    GLADIATOR_TT_RL: 10
+  response: |-
+    4C0100962A0F4008C3C
+    4C021200B5FF4008C3C
+- expected_values:
     GLADIATOR_TP_RL: 35.5
     GLADIATOR_TT_RL: 13
   response: |-
@@ -30,12 +36,6 @@ test_cases:
   response: |-
     4C0100962A0F400903D
     4C02100915FF400903D
-- expected_values:
-    GLADIATOR_TP_RL: 36
-    GLADIATOR_TT_RL: 12
-  response: |-
-    4C0100962A0F400903E
-    4C02100035FF400903E
 - expected_values:
     GLADIATOR_TP_RL: 37.5
     GLADIATOR_TT_RL: 21
