@@ -53,7 +53,7 @@ test_cases:
     GLADIATOR_TT_FR: 32
   response: |-
     4C0100962A0F2009C52
-    4C02100915DF2009C52
+    4C02100515DF2009C52
 - expected_values:
     GLADIATOR_TP_FR: 39.5
     GLADIATOR_TT_FR: 27
