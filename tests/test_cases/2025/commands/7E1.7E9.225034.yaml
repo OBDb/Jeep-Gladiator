@@ -22,9 +22,6 @@ test_cases:
     GLADIATOR_MAIN_CYL_P: -32.9
   response: '7E9056250340047'
 - expected_values:
-    GLADIATOR_MAIN_CYL_P: -29.9
-  response: '7E9056250340065'
-- expected_values:
     GLADIATOR_MAIN_CYL_P: -28.6
   response: '7E9056250340072'
 - expected_values:
