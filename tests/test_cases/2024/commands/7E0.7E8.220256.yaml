@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220256
 test_cases:
 - expected_values:
-    JEEP_FUEL_MASS_CYL_2: 10.48438
+    GLADIATOR_FUEL_MASS_CYL_2: 10.48438
   response: 7E805620256029F
 - expected_values:
-    JEEP_FUEL_MASS_CYL_2: 11.01562
+    GLADIATOR_FUEL_MASS_CYL_2: 11.01562
   response: 7E80562025602C1

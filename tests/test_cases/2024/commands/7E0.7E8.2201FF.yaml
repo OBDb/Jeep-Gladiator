@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2201FF
 test_cases:
 - expected_values:
-    JEEP_IAT_01FF: 60
+    GLADIATOR_IAT_01FF: 60
   response: 7E8056201FF007C
 - expected_values:
-    JEEP_IAT_01FF: 61
+    GLADIATOR_IAT_01FF: 61
   response: 7E8056201FF007D

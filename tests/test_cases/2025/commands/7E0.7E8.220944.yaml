@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.220944
 test_cases:
 - expected_values:
-    JEEP_BRAKE_BOOSTER_P: 48.75
+    GLADIATOR_BRAKE_BOOSTER_P: 48.75
   response: 7E805620944130B
 - expected_values:
-    JEEP_BRAKE_BOOSTER_P: 69.1
+    GLADIATOR_BRAKE_BOOSTER_P: 69.1
   response: 7E8056209441AFE
 - expected_values:
-    JEEP_BRAKE_BOOSTER_P: 76.8
+    GLADIATOR_BRAKE_BOOSTER_P: 76.8
   response: 7E8056209441E00
 - expected_values:
-    JEEP_BRAKE_BOOSTER_P: 82.3
+    GLADIATOR_BRAKE_BOOSTER_P: 82.3
   response: '7E8056209442026'

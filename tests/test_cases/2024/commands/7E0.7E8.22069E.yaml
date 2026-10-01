@@ -1,5 +1,5 @@
 command_id: 7E0.7E8.22069E
 test_cases:
 - expected_values:
-    JEEP_VARIABLE_VLV_TIM_OIL_P: 200
+    GLADIATOR_VARIABLE_VLV_TIM_OIL_P: 200
   response: 7E80462069E32

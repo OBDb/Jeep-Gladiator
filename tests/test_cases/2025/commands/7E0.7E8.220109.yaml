@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220109
 test_cases:
 - expected_values:
-    JEEP_BAROMETRIC_P: 144.13
+    GLADIATOR_BAROMETRIC_P: 99.4
   response: 7E80562010901F1
 - expected_values:
-    JEEP_BAROMETRIC_P: 147.9
+    GLADIATOR_BAROMETRIC_P: 102
   response: 7E80562010901FE

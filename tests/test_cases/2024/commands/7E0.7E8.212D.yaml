@@ -1,7 +1,7 @@
 command_id: 7E0.7E8.212D
 test_cases:
 - expected_values:
-    JEEP_EOT_212D: 199.6
+    GLADIATOR_EOT_212D: 199.6
   response: |-
     7E81076612DFFFFFFFF
     7E821FF10D69DFFFF00
@@ -21,7 +21,7 @@ test_cases:
     7E82F0000000302A900
     7E820000003003F0271
 - expected_values:
-    JEEP_EOT_212D: 201.4
+    GLADIATOR_EOT_212D: 201.4
   response: |-
     7E81076612DFFFFFFFF
     7E821FF11AD9EFFFF00

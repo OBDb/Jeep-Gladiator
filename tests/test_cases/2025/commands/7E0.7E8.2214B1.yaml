@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2214B1
 test_cases:
 - expected_values:
-    JEEP_THROTTLE_INLET_AIR_T: 12
+    GLADIATOR_THROTTLE_INLET_AIR_T: 12
   response: 7E8056214B1004C
 - expected_values:
-    JEEP_THROTTLE_INLET_AIR_T: 65
+    GLADIATOR_THROTTLE_INLET_AIR_T: 65
   response: 7E8056214B10081

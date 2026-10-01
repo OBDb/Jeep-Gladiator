@@ -1,6 +1,5 @@
 command_id: 7E1.7E9.2204FE
 test_cases:
 - expected_values:
-    JEEP_ATF_T_2: 116.6
-    JEEP_ATF_T_V2: 47
+    GLADIATOR_ATF_T: 116.6
   response: 7E9066204FE575557

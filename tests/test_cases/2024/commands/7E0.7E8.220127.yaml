@@ -1,5 +1,5 @@
 command_id: 7E0.7E8.220127
 test_cases:
 - expected_values:
-    JEEP_AAT: 64.6
+    GLADIATOR_AAT: 64.6
   response: '7E80462012752'
