@@ -268,7 +268,7 @@
   "signals": [
     {"id": "GLADIATOR_ODO_03BC", "path": "Trips", "fmt": { "len": 32, "max": 4294967, "div": 1000, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "040F"}, "freq": 30,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "040F"}, "freq": 30, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "GLADIATOR_FLI_7E0", "path": "Fuel", "fmt": { "len": 16, "max": 18637, "min": -18638, "mul": 711, "div": 1250, "sign": true, "unit": "liters" }, "name": "Fuel level"}
   ]},
