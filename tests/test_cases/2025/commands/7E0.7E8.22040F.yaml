@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22040F
+test_cases:
+- expected_values:
+    GLADIATOR_FLI_7E0: 22.752
+  response: 7E80562040F0028
+- expected_values:
+    GLADIATOR_FLI_7E0: 108.072
+  response: 7E80562040F00BE
