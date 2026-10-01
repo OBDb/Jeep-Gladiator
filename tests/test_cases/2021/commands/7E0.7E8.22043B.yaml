@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22043B
 test_cases:
 - expected_values:
-    JEEP_ODO: 55607.296
+    GLADIATOR_ODO: 55607.296
   response: 7E80562043B1A84
 - expected_values:
-    JEEP_ODO: 56369.152
+    GLADIATOR_ODO: 56369.152
   response: 7E80562043B1AE1
 - expected_values:
-    JEEP_ODO: 61177.856
+    GLADIATOR_ODO: 61177.856
   response: 7E80562043B1D2C

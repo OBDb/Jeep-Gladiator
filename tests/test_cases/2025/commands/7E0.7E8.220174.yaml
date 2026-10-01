@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.220174
 test_cases:
 - expected_values:
-    JEEP_MAP: 18.6
+    GLADIATOR_MAP: 18.6
   response: 7E805620174005D
 - expected_values:
-    JEEP_MAP: 51
+    GLADIATOR_MAP: 51
   response: 7E80562017400FF
 - expected_values:
-    JEEP_MAP: 51.4
+    GLADIATOR_MAP: 51.4
   response: '7E8056201740101'

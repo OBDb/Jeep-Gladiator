@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.2201A9
 test_cases:
 - expected_values:
-    JEEP_KNOCK_SENS_1: 0.27642
+    GLADIATOR_KNOCK_SENS_1: 0.27642
   response: 7E8056201A90E27
 - expected_values:
-    JEEP_KNOCK_SENS_1: 0.39063
+    GLADIATOR_KNOCK_SENS_1: 0.39063
   response: 7E8056201A91400
 - expected_values:
-    JEEP_KNOCK_SENS_1: 0.41009
+    GLADIATOR_KNOCK_SENS_1: 0.41009
   response: 7E8056201A914FF
 - expected_values:
-    JEEP_KNOCK_SENS_1: 1.51698
+    GLADIATOR_KNOCK_SENS_1: 1.51698
   response: 7E8056201A94DAB

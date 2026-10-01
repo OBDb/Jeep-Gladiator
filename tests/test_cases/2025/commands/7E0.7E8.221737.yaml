@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221737
 test_cases:
 - expected_values:
-    JEEP_FL_WHL_SPD: 0
+    GLADIATOR_FL_WHL_SPD: 0
   response: '7E8056217370000'
 - expected_values:
-    JEEP_FL_WHL_SPD: 19.96875
+    GLADIATOR_FL_WHL_SPD: 19.96875
   response: 7E80562173704FE
 - expected_values:
-    JEEP_FL_WHL_SPD: 100.26562
+    GLADIATOR_FL_WHL_SPD: 100.26562
   response: '7E8056217371911'
