@@ -4,8 +4,8 @@ test_cases:
     GLADIATOR_FL_WHL_SPD: 0
   response: '7E8056217370000'
 - expected_values:
-    GLADIATOR_FL_WHL_SPD: 19.96875
-  response: 7E80562173704FE
+    GLADIATOR_FL_WHL_SPD: 63.98438
+  response: 7E8056217370FFF
 - expected_values:
     GLADIATOR_FL_WHL_SPD: 100.26562
   response: '7E8056217371911'
