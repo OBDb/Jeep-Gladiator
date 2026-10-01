@@ -1,0 +1,29 @@
+command_id: 7E1.7E9.225034
+test_cases:
+- expected_values:
+    GLADIATOR_MAIN_CYL_P: -40
+  response: '7E9056250340000'
+- expected_values:
+    GLADIATOR_MAIN_CYL_P: -39.9
+  response: '7E9056250340001'
+- expected_values:
+    GLADIATOR_MAIN_CYL_P: -38.7
+  response: 7E905625034000D
+- expected_values:
+    GLADIATOR_MAIN_CYL_P: -35
+  response: '7E9056250340032'
+- expected_values:
+    GLADIATOR_MAIN_CYL_P: -34.1
+  response: 7E905625034003B
+- expected_values:
+    GLADIATOR_MAIN_CYL_P: -33.6
+  response: '7E9056250340040'
+- expected_values:
+    GLADIATOR_MAIN_CYL_P: -32.9
+  response: '7E9056250340047'
+- expected_values:
+    GLADIATOR_MAIN_CYL_P: -28.6
+  response: '7E9056250340072'
+- expected_values:
+    GLADIATOR_MAIN_CYL_P: -25.7
+  response: 7E905625034008F
