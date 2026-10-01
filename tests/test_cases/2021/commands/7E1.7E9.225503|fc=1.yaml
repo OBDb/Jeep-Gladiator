@@ -1,32 +1,32 @@
 command_id: 7E1.7E9.225503|fc=1
 test_cases:
 - expected_values:
-    JEEP_GEAR: '1'
+    GLADIATOR_GEAR: '1'
   response: '7E90462550301'
 - expected_values:
-    JEEP_GEAR: '2'
+    GLADIATOR_GEAR: '2'
   response: '7E90462550302'
 - expected_values:
-    JEEP_GEAR: '3'
+    GLADIATOR_GEAR: '3'
   response: '7E90462550303'
 - expected_values:
-    JEEP_GEAR: '4'
+    GLADIATOR_GEAR: '4'
   response: '7E90462550304'
 - expected_values:
-    JEEP_GEAR: '5'
+    GLADIATOR_GEAR: '5'
   response: '7E90462550305'
 - expected_values:
-    JEEP_GEAR: '6'
+    GLADIATOR_GEAR: '6'
   response: '7E90462550306'
 - expected_values:
-    JEEP_GEAR: '7'
+    GLADIATOR_GEAR: '7'
   response: '7E90462550307'
 - expected_values:
-    JEEP_GEAR: '8'
+    GLADIATOR_GEAR: '8'
   response: '7E90462550308'
 - expected_values:
-    JEEP_GEAR: REAR
+    GLADIATOR_GEAR: REAR
   response: 7E9046255030B
 - expected_values:
-    JEEP_GEAR: PARK
+    GLADIATOR_GEAR: PARK
   response: 7E9046255030D

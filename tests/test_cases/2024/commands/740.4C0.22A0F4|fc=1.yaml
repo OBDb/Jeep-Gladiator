@@ -1,12 +1,8 @@
 command_id: 740.4C0.22A0F4|fc=1
 test_cases:
 - expected_values:
-    JEEP_TP_RL: 33.5
-    JEEP_TP_RL_740: 0
-    JEEP_TP_RL_F: 13.4
-    JEEP_TT_RL: 18
-    JEEP_TT_RL_740: 84
-    JEEP_TT_RL_F: 105
+    GLADIATOR_TP_RL: 33.5
+    GLADIATOR_TT_RL: 18
   response: |-
     4C0100962A0F4008644
     4C02100915FF4008644

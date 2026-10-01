@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2206C2
 test_cases:
 - expected_values:
-    JEEP_INT_CAM_1_OFFSET: 0.3
+    GLADIATOR_INT_CAM_1_OFFSET: 0.3
   response: 7E8056206C20003
 - expected_values:
-    JEEP_INT_CAM_1_OFFSET: 25.4
+    GLADIATOR_INT_CAM_1_OFFSET: 25.4
   response: 7E8056206C200FE
 - expected_values:
-    JEEP_INT_CAM_1_OFFSET: 51.2
+    GLADIATOR_INT_CAM_1_OFFSET: 51.2
   response: 7E8056206C20200

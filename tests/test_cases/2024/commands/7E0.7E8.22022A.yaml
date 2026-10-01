@@ -1,5 +1,5 @@
 command_id: 7E0.7E8.22022A
 test_cases:
 - expected_values:
-    JEEP_EOP: 29
+    GLADIATOR_EOP: 29
   response: 7E80462022A32

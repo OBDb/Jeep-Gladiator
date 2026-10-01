@@ -1,18 +1,14 @@
 command_id: 7E1.7E9.2204FE
 test_cases:
 - expected_values:
-    JEEP_ATF_T_2: 19.4
-    JEEP_ATF_T_V2: -7
+    GLADIATOR_ATF_T: 19.4
   response: 7E9066204FE211F1F
 - expected_values:
-    JEEP_ATF_T_2: 206.6
-    JEEP_ATF_T_V2: 97
+    GLADIATOR_ATF_T: 206.6
   response: 7E9066204FE898C8C
 - expected_values:
-    JEEP_ATF_T_2: 212
-    JEEP_ATF_T_V2: 100
+    GLADIATOR_ATF_T: 212
   response: 7E9066204FE8C8D8C
 - expected_values:
-    JEEP_ATF_T_2: 213.8
-    JEEP_ATF_T_V2: 101
+    GLADIATOR_ATF_T: 213.8
   response: 7E9066204FE8D8B8C
