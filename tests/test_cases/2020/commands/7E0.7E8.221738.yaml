@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.221738
+test_cases:
+- expected_values:
+    GLADIATOR_FR_WHL_SPD: 0
+  response: '7E8056217380000'
+- expected_values:
+    GLADIATOR_FR_WHL_SPD: 18.76562
+  response: 7E80562173804B1
+- expected_values:
+    GLADIATOR_FR_WHL_SPD: 21.71875
+  response: 7E805621738056E
+- expected_values:
+    GLADIATOR_FR_WHL_SPD: 33.25
+  response: '7E8056217380850'
+- expected_values:
+    GLADIATOR_FR_WHL_SPD: 41.54688
+  response: 7E8056217380A63

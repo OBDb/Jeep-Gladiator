@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.2201A9
+test_cases:
+- expected_values:
+    GLADIATOR_KNOCK_SENS_1: 0.38575
+  response: 7E8056201A913C0
+- expected_values:
+    GLADIATOR_KNOCK_SENS_1: 0.4004
+  response: 7E8056201A91480
+- expected_values:
+    GLADIATOR_KNOCK_SENS_1: 0.41016
+  response: 7E8056201A91500
+- expected_values:
+    GLADIATOR_KNOCK_SENS_1: 0.42481
+  response: 7E8056201A915C0
+- expected_values:
+    GLADIATOR_KNOCK_SENS_1: 0.42969
+  response: 7E8056201A91600
+- expected_values:
+    GLADIATOR_KNOCK_SENS_1: 0.49805
+  response: 7E8056201A91980
+- expected_values:
+    GLADIATOR_KNOCK_SENS_1: 0.60548
+  response: 7E8056201A91F00

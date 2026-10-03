@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.220329
+test_cases:
+- expected_values:
+    GLADIATOR_AC_HIGH_SIDE_P: 840
+  response: 7E8046203293C
+- expected_values:
+    GLADIATOR_AC_HIGH_SIDE_P: 854
+  response: 7E8046203293D
+- expected_values:
+    GLADIATOR_AC_HIGH_SIDE_P: 1008
+  response: '7E80462032948'
+- expected_values:
+    GLADIATOR_AC_HIGH_SIDE_P: 1120
+  response: '7E80462032950'
+- expected_values:
+    GLADIATOR_AC_HIGH_SIDE_P: 1358
+  response: '7E80462032961'
+- expected_values:
+    GLADIATOR_AC_HIGH_SIDE_P: 1428
+  response: '7E80462032966'
+- expected_values:
+    GLADIATOR_AC_HIGH_SIDE_P: 1610
+  response: '7E80462032973'

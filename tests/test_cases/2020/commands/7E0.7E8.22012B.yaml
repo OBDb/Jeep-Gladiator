@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.22012B
+test_cases:
+- expected_values:
+    GLADIATOR_CAT_MODEL_T: 705
+  response: 7E80562012B02C1
+- expected_values:
+    GLADIATOR_CAT_MODEL_T: 737
+  response: 7E80562012B02E1
+- expected_values:
+    GLADIATOR_CAT_MODEL_T: 743
+  response: 7E80562012B02E7
+- expected_values:
+    GLADIATOR_CAT_MODEL_T: 770
+  response: 7E80562012B0302
+- expected_values:
+    GLADIATOR_CAT_MODEL_T: 862
+  response: 7E80562012B035E
+- expected_values:
+    GLADIATOR_CAT_MODEL_T: 872
+  response: 7E80562012B0368
+- expected_values:
+    GLADIATOR_CAT_MODEL_T: 900
+  response: 7E80562012B0384
+- expected_values:
+    GLADIATOR_CAT_MODEL_T: 975
+  response: 7E80562012B03CF

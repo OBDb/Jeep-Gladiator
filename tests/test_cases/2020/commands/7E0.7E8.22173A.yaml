@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.22173A
+test_cases:
+- expected_values:
+    GLADIATOR_RR_WHL_SPD: 0
+  response: 7E80562173A0000
+- expected_values:
+    GLADIATOR_RR_WHL_SPD: 3.79688
+  response: 7E80562173A00F3
+- expected_values:
+    GLADIATOR_RR_WHL_SPD: 13.92188
+  response: 7E80562173A037B
+- expected_values:
+    GLADIATOR_RR_WHL_SPD: 33.95312
+  response: 7E80562173A087D
+- expected_values:
+    GLADIATOR_RR_WHL_SPD: 35.57812
+  response: 7E80562173A08E5
+- expected_values:
+    GLADIATOR_RR_WHL_SPD: 47.45312
+  response: 7E80562173A0BDD
