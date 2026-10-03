@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.2206C2
+test_cases:
+- expected_values:
+    GLADIATOR_INT_CAM_1_OFFSET: 1.8
+  response: 7E8056206C20012
+- expected_values:
+    GLADIATOR_INT_CAM_1_OFFSET: 2.5
+  response: 7E8056206C20019
+- expected_values:
+    GLADIATOR_INT_CAM_1_OFFSET: 6.6
+  response: 7E8056206C20042
+- expected_values:
+    GLADIATOR_INT_CAM_1_OFFSET: 37.9
+  response: 7E8056206C2017B
+- expected_values:
+    GLADIATOR_INT_CAM_1_OFFSET: 57.5
+  response: 7E8056206C2023F
+- expected_values:
+    GLADIATOR_INT_CAM_1_OFFSET: -0.3
+  response: 7E8056206C2FFFD
+- expected_values:
+    GLADIATOR_INT_CAM_1_OFFSET: -0.1
+  response: 7E8056206C2FFFF

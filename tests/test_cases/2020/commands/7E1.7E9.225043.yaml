@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.225043
+test_cases:
+- expected_values:
+    GLADIATOR_ATF_T_7E1: 49
+  response: '7E90462504359'
+- expected_values:
+    GLADIATOR_ATF_T_7E1: 87
+  response: 7E9046250437F
+- expected_values:
+    GLADIATOR_ATF_T_7E1: 93
+  response: '7E90462504385'

@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.22069F
+test_cases:
+- expected_values:
+    GLADIATOR_VARIABLE_VLV_TIM_OIL_T: 47
+  response: 7E80462069F6F
+- expected_values:
+    GLADIATOR_VARIABLE_VLV_TIM_OIL_T: 56
+  response: 7E80462069F78
+- expected_values:
+    GLADIATOR_VARIABLE_VLV_TIM_OIL_T: 68
+  response: 7E80462069F84
+- expected_values:
+    GLADIATOR_VARIABLE_VLV_TIM_OIL_T: 73
+  response: 7E80462069F89
+- expected_values:
+    GLADIATOR_VARIABLE_VLV_TIM_OIL_T: 87
+  response: 7E80462069F97
+- expected_values:
+    GLADIATOR_VARIABLE_VLV_TIM_OIL_T: 88
+  response: 7E80462069F98
+- expected_values:
+    GLADIATOR_VARIABLE_VLV_TIM_OIL_T: 90
+  response: 7E80462069F9A
+- expected_values:
+    GLADIATOR_VARIABLE_VLV_TIM_OIL_T: 92
+  response: 7E80462069F9C
+- expected_values:
+    GLADIATOR_VARIABLE_VLV_TIM_OIL_T: 93
+  response: 7E80462069F9D

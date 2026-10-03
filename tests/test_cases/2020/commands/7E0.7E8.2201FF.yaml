@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.2201FF
+test_cases:
+- expected_values:
+    GLADIATOR_IAT_01FF: 31
+  response: 7E8056201FF005F
+- expected_values:
+    GLADIATOR_IAT_01FF: 33
+  response: 7E8056201FF0061
+- expected_values:
+    GLADIATOR_IAT_01FF: 34
+  response: 7E8056201FF0062
+- expected_values:
+    GLADIATOR_IAT_01FF: 41
+  response: 7E8056201FF0069
+- expected_values:
+    GLADIATOR_IAT_01FF: 42
+  response: 7E8056201FF006A
+- expected_values:
+    GLADIATOR_IAT_01FF: 45
+  response: 7E8056201FF006D

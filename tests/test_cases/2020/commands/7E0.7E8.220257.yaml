@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.220257
+test_cases:
+- expected_values:
+    GLADIATOR_FUEL_MASS_CYL_3: 0
+  response: '7E8056202570000'
+- expected_values:
+    GLADIATOR_FUEL_MASS_CYL_3: 4.65625
+  response: 7E805620257012A
+- expected_values:
+    GLADIATOR_FUEL_MASS_CYL_3: 9.51562
+  response: '7E8056202570261'
+- expected_values:
+    GLADIATOR_FUEL_MASS_CYL_3: 12.20312
+  response: 7E805620257030D
+- expected_values:
+    GLADIATOR_FUEL_MASS_CYL_3: 12.60938
+  response: '7E8056202570327'
+- expected_values:
+    GLADIATOR_FUEL_MASS_CYL_3: 29.54688
+  response: '7E8056202570763'
+- expected_values:
+    GLADIATOR_FUEL_MASS_CYL_3: 46.09375
+  response: 7E8056202570B86

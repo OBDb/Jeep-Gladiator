@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.220944
+test_cases:
+- expected_values:
+    GLADIATOR_BRAKE_BOOSTER_P: 61.4
+  response: 7E80562094417FC
+- expected_values:
+    GLADIATOR_BRAKE_BOOSTER_P: 64.15
+  response: 7E805620944190F
+- expected_values:
+    GLADIATOR_BRAKE_BOOSTER_P: 64.7
+  response: '7E8056209441946'
+- expected_values:
+    GLADIATOR_BRAKE_BOOSTER_P: 65.25
+  response: 7E805620944197D
+- expected_values:
+    GLADIATOR_BRAKE_BOOSTER_P: 73.5
+  response: 7E8056209441CB6
+- expected_values:
+    GLADIATOR_BRAKE_BOOSTER_P: 74.05
+  response: 7E8056209441CED
+- expected_values:
+    GLADIATOR_BRAKE_BOOSTER_P: 76.25
+  response: 7E8056209441DC9
+- expected_values:
+    GLADIATOR_BRAKE_BOOSTER_P: 79
+  response: 7E8056209441EDC

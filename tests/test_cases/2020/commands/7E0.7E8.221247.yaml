@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.221247
+test_cases:
+- expected_values:
+    GLADIATOR_THROTTLE_INLET_P: 99.84375
+  response: 7E8056212473E67
+- expected_values:
+    GLADIATOR_THROTTLE_INLET_P: 100.50625
+  response: 7E8056212473ED1
+- expected_values:
+    GLADIATOR_THROTTLE_INLET_P: 100.65
+  response: 7E8056212473EE8
+- expected_values:
+    GLADIATOR_THROTTLE_INLET_P: 100.65625
+  response: 7E8056212473EE9
+- expected_values:
+    GLADIATOR_THROTTLE_INLET_P: 100.675
+  response: 7E8056212473EEC
+- expected_values:
+    GLADIATOR_THROTTLE_INLET_P: 101.30625
+  response: 7E8056212473F51
+- expected_values:
+    GLADIATOR_THROTTLE_INLET_P: 101.31875
+  response: 7E8056212473F53
+- expected_values:
+    GLADIATOR_THROTTLE_INLET_P: 101.35625
+  response: 7E8056212473F59

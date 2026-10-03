@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.2202B2
+test_cases:
+- expected_values:
+    GLADIATOR_REQUIRED_FUEL_CHG_1: 4.03125
+  response: 7E8056202B20102
+- expected_values:
+    GLADIATOR_REQUIRED_FUEL_CHG_1: 4.17188
+  response: 7E8056202B2010B
+- expected_values:
+    GLADIATOR_REQUIRED_FUEL_CHG_1: 4.76562
+  response: 7E8056202B20131
+- expected_values:
+    GLADIATOR_REQUIRED_FUEL_CHG_1: 4.78125
+  response: 7E8056202B20132
+- expected_values:
+    GLADIATOR_REQUIRED_FUEL_CHG_1: 7.65625
+  response: 7E8056202B201EA
+- expected_values:
+    GLADIATOR_REQUIRED_FUEL_CHG_1: 9.15625
+  response: 7E8056202B2024A
+- expected_values:
+    GLADIATOR_REQUIRED_FUEL_CHG_1: 9.53125
+  response: 7E8056202B20262
+- expected_values:
+    GLADIATOR_REQUIRED_FUEL_CHG_1: 12.45312
+  response: 7E8056202B2031D

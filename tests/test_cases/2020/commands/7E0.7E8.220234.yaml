@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.220234
+test_cases:
+- expected_values:
+    GLADIATOR_INJ_WIDTH_CYL_1: 0
+  response: '7E80762023400000000'
+- expected_values:
+    GLADIATOR_INJ_WIDTH_CYL_1: 2.2
+  response: '7E80762023400000898'
+- expected_values:
+    GLADIATOR_INJ_WIDTH_CYL_1: 2.552
+  response: 7E807620234000009F8
+- expected_values:
+    GLADIATOR_INJ_WIDTH_CYL_1: 3.16
+  response: 7E80762023400000C58
+- expected_values:
+    GLADIATOR_INJ_WIDTH_CYL_1: 7.64
+  response: 7E80762023400001DD8
+- expected_values:
+    GLADIATOR_INJ_WIDTH_CYL_1: 9.904
+  response: 7E807620234000026B0
+- expected_values:
+    GLADIATOR_INJ_WIDTH_CYL_1: 12.472
+  response: 7E807620234000030B8
