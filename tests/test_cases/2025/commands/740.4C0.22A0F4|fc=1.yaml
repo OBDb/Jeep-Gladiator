@@ -47,7 +47,7 @@ test_cases:
     GLADIATOR_TT_RL: 30
   response: |-
     4C0100962A0F4009E50
-    4C02100915FF4009E50
+    4C02100515FF4009E50
 - expected_values:
     GLADIATOR_TP_RL: 39.5
     GLADIATOR_TT_RL: 33
