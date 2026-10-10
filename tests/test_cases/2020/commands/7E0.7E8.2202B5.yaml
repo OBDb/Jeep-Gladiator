@@ -7,6 +7,9 @@ test_cases:
     GLADIATOR_REQUIRED_FUEL_CHG_4: 4.625
   response: 7E8056202B50128
 - expected_values:
+    GLADIATOR_REQUIRED_FUEL_CHG_4: 4.78125
+  response: 7E8056202B50132
+- expected_values:
     GLADIATOR_REQUIRED_FUEL_CHG_4: 7.40625
   response: 7E8056202B501DA
 - expected_values:
