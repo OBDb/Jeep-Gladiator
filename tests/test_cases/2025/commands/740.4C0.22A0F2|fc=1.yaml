@@ -2,22 +2,22 @@ command_id: 740.4C0.22A0F2|fc=1
 test_cases:
 - expected_values:
     GLADIATOR_TP_FR: 34.5
+    GLADIATOR_TT_FR: 7
+  response: |-
+    4C0100962A0F2008A39
+    4C02100035DF2008A39
+- expected_values:
+    GLADIATOR_TP_FR: 34.5
+    GLADIATOR_TT_FR: 7
+  response: |-
+    4C0100962A0F2008A39
+    4C021110B5DF2008A39
+- expected_values:
+    GLADIATOR_TP_FR: 34.5
     GLADIATOR_TT_FR: 10
   response: |-
     4C0100962A0F2008A3C
     4C02100915DF2008A3C
-- expected_values:
-    GLADIATOR_TP_FR: 35
-    GLADIATOR_TT_FR: 10
-  response: |-
-    4C0100962A0F2008C3C
-    4C02100035DF2008C3C
-- expected_values:
-    GLADIATOR_TP_FR: 35
-    GLADIATOR_TT_FR: 10
-  response: |-
-    4C0100962A0F2008C3C
-    4C021210B5DF2008C3C
 - expected_values:
     GLADIATOR_TP_FR: 35
     GLADIATOR_TT_FR: 11
