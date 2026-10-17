@@ -66,3 +66,9 @@ test_cases:
   response: |-
     4C0100962A0F100A051
     4C02100C35CF100A051
+- expected_values:
+    GLADIATOR_TP_FL: 42.5
+    GLADIATOR_TT_FL: 27
+  response: |-
+    4C0100962A0F100AA4D
+    4C02100915CF100AA4D
