@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     GLADIATOR_ODO: 18808.832
   response: 7E80562043B08F8
+- expected_values:
+    GLADIATOR_ODO: 19046.4
+  response: 7E80562043B0915
