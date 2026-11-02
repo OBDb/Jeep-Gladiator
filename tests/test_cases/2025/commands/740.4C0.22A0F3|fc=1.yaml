@@ -43,6 +43,12 @@ test_cases:
     4C0100962A0F3009245
     4C021F60B5EF3009245
 - expected_values:
+    GLADIATOR_TP_RR: 38
+    GLADIATOR_TT_RR: 2
+  response: |-
+    4C0100962A0F3009834
+    4C02100915EF3009834
+- expected_values:
     GLADIATOR_TP_RR: 39.5
     GLADIATOR_TT_RR: 30
   response: |-
