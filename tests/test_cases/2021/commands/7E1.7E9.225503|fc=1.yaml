@@ -25,7 +25,7 @@ test_cases:
     GLADIATOR_GEAR: '8'
   response: '7E90462550308'
 - expected_values:
-    GLADIATOR_GEAR: REAR
+    GLADIATOR_GEAR: REVERSE
   response: 7E9046255030B
 - expected_values:
     GLADIATOR_GEAR: PARK
