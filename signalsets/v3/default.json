@@ -29,8 +29,8 @@
   ]},
 { "hdr": "740", "rax": "4C0", "fcm1": true, "cmd": {"22": "A0F3"}, "freq": 15, "dbgfilter": { "to": 2020, "years": [2023], "from": 2026 },
   "signals": [
-    {"id": "GLADIATOR_TP_RR", "path": "Tires", "fmt": {"bix": 8,  "len": 8, "max": 63.75,             "div": 4,             "unit": "psi"     }, "name": "Rear right tire pressure",    "suggestedMetric": "rearRightTirePressure"},
-    {"id": "GLADIATOR_TT_RR", "path": "Tires", "fmt": {"bix": 16, "len": 8, "max": 205,   "min": -50,           "add": -50, "unit": "celsius" }, "name": "Rear right tire temperature", "suggestedMetric": "rearRightTireTemperature"}
+    {"id": "GLADIATOR_TP_RR", "path": "Tires", "fmt": {"bix": 8,  "len": 8, "max": 63.75,             "div": 4,             "nullmin": 0, "unit": "psi"     }, "name": "Rear right tire pressure",    "suggestedMetric": "rearRightTirePressure"},
+    {"id": "GLADIATOR_TT_RR", "path": "Tires", "fmt": {"bix": 16, "len": 8, "max": 205,   "min": -50,           "add": -50,               "unit": "celsius" }, "name": "Rear right tire temperature", "suggestedMetric": "rearRightTireTemperature"}
   ]},
 { "hdr": "740", "rax": "4C0", "fcm1": true, "cmd": {"22": "A0F4"}, "freq": 15, "dbgfilter": { "to": 2020, "years": [2023], "from": 2026 },
   "signals": [

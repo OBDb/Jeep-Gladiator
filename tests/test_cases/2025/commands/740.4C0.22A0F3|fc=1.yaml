@@ -1,7 +1,6 @@
 command_id: 740.4C0.22A0F3|fc=1
 test_cases:
 - expected_values:
-    GLADIATOR_TP_RR: 0
     GLADIATOR_TT_RR: 30
   response: |-
     4C0100962A0F3000050
